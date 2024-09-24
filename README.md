@@ -22,7 +22,7 @@ Este proyecto es un scraper desarrollado como parte de una prueba tecnica. Su ob
 - Fácil de Usar: Implementación sencilla y directa que permite ejecutar el scraper con comandos mínimos, o incluso solo haciendo doble click en el archivo find_notices.py.
 
 ## Estructura
-TusDatos_PruebaTecnica/
+Prueba_tecnica_NEQUI/
 │
 ├── AWS/
 │   └── connection_to_db.py
